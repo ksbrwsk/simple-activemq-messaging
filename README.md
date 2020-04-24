@@ -13,7 +13,7 @@ grab an image from Docker Hub and run the image.
 ```bash
 docker pull rmohr/activemq
 docker run -p 61616:61616 -p 8161:8161 rmohr/activemq
-``
+```
 
 ## How to build and run
 
