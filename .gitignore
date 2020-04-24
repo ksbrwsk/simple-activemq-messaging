@@ -1,9 +1,6 @@
 .DS_Store
 HELP.md
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**
-!**/src/test/**
 
 ### STS ###
 .apt_generated
@@ -31,9 +28,4 @@ build/
 ### VS Code ###
 .vscode/
 .gitignore
-.mvn/
-mvnw
-mvnw.cmd
-pom.xml
-src/main/java/de/ksbrwsk/producer/ProducerApplication.java
-src/main/resources/
+
