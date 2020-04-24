@@ -53,5 +53,5 @@ java -jar consumer-0.0.1-SNAPSHOT.jar
 create and send a message
 
 ```bash
-curl -i http://localhost:8000/producer/YourMessage
+curl -i http://localhost:8080/producer/YourMessage
 ```
